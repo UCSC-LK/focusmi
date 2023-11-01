@@ -1,6 +1,6 @@
 {
-    "name": "focusmi",
-    "short_name": "focusmi",
+    "name": "therapist_app",
+    "short_name": "therapist_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
