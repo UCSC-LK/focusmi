@@ -4,15 +4,26 @@ FocusMi is a comprehensive mindfulness app designed to enhance your well-being a
 
 ## Features
 
-### Mindfulness Courses
-Explore our curated mindfulness courses led by experienced instructors. Learn meditation techniques, breathing exercises, and stress management strategies to improve your mental health.
+### Mobile Application for Normal Users
 
-### Individual and Group Task Planner
-Organize your tasks efficiently with FocusMi's task planner. Create individual tasks or collaborate with others in group projects. Stay on top of your commitments and enhance your productivity.
+- **Group Task Planner:** Collaborate on tasks with other users.
+- **Individual Task Planner:** Plan and manage individual tasks.
+- **Online Video Counseling Sessions:** Connect with therapists through video sessions.
+- **Pomodoro Timer:** Utilize the Pomodoro technique for time management.
+- **Mindfulness Courses:** Access and participate in mindfulness courses.
 
-### Therapy Sessions
-Connect with licensed therapists and counselors for one-on-one therapy sessions. Discuss your concerns, get personalized advice, and work towards a healthier mindset. FocusMi provides a secure and confidential platform for therapy.
+### Mobile Application for Therapists
 
+- **Maintaining Profile:** Therapists can manage their profiles.
+- **Scheduling Counseling Sessions:** Schedule and manage counseling sessions with users.
+- **Generating Reports:** Generate reports based on counseling sessions.
+
+### Web Application for Administrators
+
+- **Adding New Counselors:** Admins can add new counselors to the system.
+- **Adding Mindfulness Course Content:** Add and manage mindfulness course content.
+- **Adding Daily Tips:** Provide daily tips for therapists and users.
+- 
 ## Technology
 Postgres as the database.
 Flutter, React for mobile applications, and admin web applications respectively. 
