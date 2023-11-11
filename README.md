@@ -31,8 +31,8 @@ Express.js as backend technology.
 
 ## Developers
 -Nimantha Welagedara <br>
--Tharindu Walpola
--Dasuni Gamage
--Thamira Weerakoon
--Dewni Gamage
+-Tharindu Walpola <br>
+-Dasuni Gamage <br>
+-Thamira Weerakoon <br>
+-Dewni Gamage <br>
 -Dinuk De Silva
