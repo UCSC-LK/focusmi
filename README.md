@@ -30,7 +30,7 @@ Flutter, React for mobile applications, and admin web applications respectively.
 Express.js as backend technology.
 
 ## Developers
--Nimantha Welagedara
+-Nimantha Welagedara <br>
 -Tharindu Walpola
 -Dasuni Gamage
 -Thamira Weerakoon
